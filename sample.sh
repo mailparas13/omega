@@ -1,5 +1,5 @@
 #!/bin/bash
-
+##
 read -p "enter the filename of 1st file " file1
 read -p "enter the filename of 2nd file " file2
 
