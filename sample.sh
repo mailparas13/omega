@@ -8,7 +8,5 @@ sort file1 > filee1
 
 sort file2 > filee2
 #cat filee2
-
+#
 comm   -1 -2 filee1 filee2
-
-
